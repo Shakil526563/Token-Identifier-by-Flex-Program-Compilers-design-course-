@@ -1,0 +1,401 @@
+this is single line Commments: // Program to create a simple calculator
+
+This is Special Characters of punctuation: #
+
+This is Identifier: include
+
+This is  Operators: <
+
+This is Identifier: stdio
+
+This is punctuation marks : .
+
+This is Identifier: h
+
+This is  Operators: >
+
+This is Keyword:int
+This is Identifier: main
+
+This is punctuation marks : (
+
+This is punctuation marks : )
+
+This is punctuation marks : {
+
+This is Keyword:char
+This is Identifier: operation
+
+This is punctuation marks : ;
+
+This is Keyword:double
+This is Identifier: n1
+
+This is punctuation marks : ,
+
+This is Identifier: n2
+
+This is punctuation marks : ;
+
+This is Identifier: printf
+
+This is punctuation marks : (
+
+This is Identifier: Enter
+
+This is Identifier: an
+
+This is Identifier: operator
+
+This is punctuation marks : (
+
+This is  Operators: +
+
+This is punctuation marks : ,
+
+This is  Operators: -
+
+This is punctuation marks : ,
+
+This is  Operators: *
+
+This is punctuation marks : ,
+
+This is  Operators: /
+
+This is punctuation marks : )
+
+This is punctuation marks : )
+
+This is punctuation marks : ;
+
+This is Identifier: scanf
+
+This is punctuation marks : (
+
+This is Special Characters of punctuation: %
+
+This is Identifier: c
+
+This is punctuation marks : ,
+
+This is Special Characters of punctuation: &
+
+This is Identifier: operation
+
+This is punctuation marks : )
+
+This is punctuation marks : ;
+
+This is Identifier: printf
+
+This is punctuation marks : (
+
+This is Identifier: Enter
+
+This is Identifier: two
+
+This is Identifier: operands
+
+This is punctuation marks : )
+
+This is punctuation marks : ;
+
+This is Identifier: scanf
+
+This is punctuation marks : (
+
+This is Special Characters of punctuation: %
+
+This is Identifier: lf
+
+This is Special Characters of punctuation: %
+
+This is Identifier: lf
+
+This is punctuation marks : ,
+
+This is Special Characters of punctuation: &
+
+This is Identifier: n1
+
+This is punctuation marks : ,
+
+This is Special Characters of punctuation: &
+
+This is Identifier: n2
+
+This is punctuation marks : )
+
+This is punctuation marks : ;
+
+This is Keyword:switch
+This is punctuation marks : (
+
+This is Identifier: operation
+
+This is punctuation marks : )
+
+This is punctuation marks : {
+
+This is Keyword:case
+This is punctuation marks : '
+
+This is  Operators: +
+
+This is punctuation marks : '
+
+This is Identifier: printf
+
+This is punctuation marks : (
+
+This is Special Characters of punctuation: %
+
+This is Constant: .1
+
+This is Identifier: lf
+
+This is  Operators: +
+
+This is Special Characters of punctuation: %
+
+This is Constant: .1
+
+This is Identifier: lf
+
+This is  Operators: =
+
+This is Special Characters of punctuation: %
+
+This is Constant: .1
+
+This is Identifier: lf
+
+This is punctuation marks : ,
+
+This is Identifier: n1
+
+This is punctuation marks : ,
+
+This is Identifier: n2
+
+This is punctuation marks : ,
+
+This is Identifier: n1
+
+This is  Operators: +
+
+This is Identifier: n2
+
+This is punctuation marks : )
+
+This is punctuation marks : ;
+
+This is Keyword:break
+This is punctuation marks : ;
+
+This is Keyword:case
+This is punctuation marks : '
+
+This is  Operators: -
+
+This is punctuation marks : '
+
+This is Identifier: printf
+
+This is punctuation marks : (
+
+This is Special Characters of punctuation: %
+
+This is Constant: .1
+
+This is Identifier: lf
+
+This is  Operators: -
+
+This is Special Characters of punctuation: %
+
+This is Constant: .1
+
+This is Identifier: lf
+
+This is  Operators: =
+
+This is Special Characters of punctuation: %
+
+This is Constant: .1
+
+This is Identifier: lf
+
+This is punctuation marks : ,
+
+This is Identifier: n1
+
+This is punctuation marks : ,
+
+This is Identifier: n2
+
+This is punctuation marks : ,
+
+This is Identifier: n1
+
+This is  Operators: -
+
+This is Identifier: n2
+
+This is punctuation marks : )
+
+This is punctuation marks : ;
+
+This is Keyword:break
+This is punctuation marks : ;
+
+This is Keyword:case
+This is punctuation marks : '
+
+This is  Operators: *
+
+This is punctuation marks : '
+
+This is Identifier: printf
+
+This is punctuation marks : (
+
+This is Special Characters of punctuation: %
+
+This is Constant: .1
+
+This is Identifier: lf
+
+This is  Operators: *
+
+This is Special Characters of punctuation: %
+
+This is Constant: .1
+
+This is Identifier: lf
+
+This is  Operators: =
+
+This is Special Characters of punctuation: %
+
+This is Constant: .1
+
+This is Identifier: lf
+
+This is punctuation marks : ,
+
+This is Identifier: n1
+
+This is punctuation marks : ,
+
+This is Identifier: n2
+
+This is punctuation marks : ,
+
+This is Identifier: n1
+
+This is  Operators: *
+
+This is Identifier: n2
+
+This is punctuation marks : )
+
+This is punctuation marks : ;
+
+This is Keyword:break
+This is punctuation marks : ;
+
+This is Keyword:case
+This is punctuation marks : '
+
+This is  Operators: /
+
+This is punctuation marks : '
+
+This is Identifier: printf
+
+This is punctuation marks : (
+
+This is Special Characters of punctuation: %
+
+This is Constant: .1
+
+This is Identifier: lf
+
+This is  Operators: /
+
+This is Special Characters of punctuation: %
+
+This is Constant: .1
+
+This is Identifier: lf
+
+This is  Operators: =
+
+This is Special Characters of punctuation: %
+
+This is Constant: .1
+
+This is Identifier: lf
+
+This is punctuation marks : ,
+
+This is Identifier: n1
+
+This is punctuation marks : ,
+
+This is Identifier: n2
+
+This is punctuation marks : ,
+
+This is Identifier: n1
+
+This is  Operators: /
+
+This is Identifier: n2
+
+This is punctuation marks : )
+
+This is punctuation marks : ;
+
+This is Keyword:break
+This is punctuation marks : ;
+
+this is single line Commments: // operator doesn't match any case constant +, -, *, /
+
+This is Identifier: default
+
+This is Identifier: printf
+
+This is punctuation marks : (
+
+This is Identifier: Error
+
+This is Identifier: operator
+
+This is Identifier: is
+
+This is Identifier: not
+
+This is Identifier: correct
+
+This is punctuation marks : )
+
+This is punctuation marks : ;
+
+This is punctuation marks : }
+
+This is Keyword:return
+This is Constant: 0
+
+This is punctuation marks : ;
+
+This is punctuation marks : }
+
+
+
+
+
+
+ Total Tokens = 204
